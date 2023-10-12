@@ -42,4 +42,4 @@ def chat_with_openai(prompt):
 
 
 if __name__ == "__main__":
-    main()  # This line was missing
+    main() 
