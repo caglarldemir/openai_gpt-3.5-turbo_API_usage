@@ -1,6 +1,6 @@
 import os
 import openai
-openai.organization = "YOUR_ORG_ID
+openai.organization = "YOUR_ORG_ID"
 openai.api_key = "YOUR API KEY"
 
 # Use a model from OpenAI (assuming "text-embedding-ada-002" exists for this example)
